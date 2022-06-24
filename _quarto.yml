@@ -6,9 +6,8 @@ website:
   navbar:
     background: primary
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: ca.qmd
+        text: Dashboard
 
 format:
   html:
