@@ -5,4 +5,4 @@ toc: false
 
 ## Program :
 
-1.  [Campaign & Digital Performance Officer](https://jakmall-vix-talent-database.netlify.app/cdpo.html "Campaign & Digital Performance Officer")
+1.  [Course Analyst](https://kompas-vix-talent-database.netlify.app/ca.html "Course Analyst")
